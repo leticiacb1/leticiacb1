@@ -1,4 +1,6 @@
-# Hi there 👋
+<div align="center">
+  <h1> Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋 </h1>
+</div>
 
 <p align="center">
   <img src="Assets/background.png" justify-content="center" width="850px">
