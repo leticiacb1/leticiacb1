@@ -4,6 +4,8 @@
   <img src="Assets/background.png" justify-content="center" width="850px">
 </p>
 
+![](https://komarev.com/ghpvc/?username=leticiacb1&color=blueviolet&style=for-the-badge)
+
 <!--
 **leticiacb1/leticiacb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
