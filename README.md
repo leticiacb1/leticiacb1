@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <p align="center">
   <img src="Assets/background.png" justify-content="center" width="850px">
