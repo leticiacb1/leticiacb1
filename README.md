@@ -8,6 +8,22 @@
 
 ---
 
+<b> 🤔 About me</b>
+<br/>
+
+- ⏳️ Computer Engineer in progress ...
+- 🌱 I'm currently learning Linux, Vim and other cool stuff!
+- ⚡ Fun fact: I have a cat 🐈️ and I like to cook 👩‍🍳️
+- 💌️ I love challenges and learning new technologies
+
+<b>:gear: &nbsp;GitHub Statistics</b>
+  <br/>
+  <p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leticiacb1&hide_border=true&theme=dark" />
+  </p>
+    <p align="center">
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=leticiacb1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacb1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+</p>
 
 <b>:computer: &nbsp;Technologies</b>
 <br/>
@@ -31,16 +47,6 @@
   <img alt="LINUX" src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white" />
 </div>
-
-
-<b>:gear: &nbsp;GitHub Statistics</b>
-  <br/>
-  <p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leticiacb1&hide_border=true&theme=dark" />
-  </p>
-    <p align="center">
-      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=leticiacb1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacb1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-</p>
 
 ---
 
