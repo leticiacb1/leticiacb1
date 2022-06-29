@@ -9,6 +9,14 @@
 ---
 
 <details>
+  <summary><b>:computer: &nbsp;Technologies</b></summary>
+  <br/>
+  
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+</details>
+
+<details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
   <p align="center">
