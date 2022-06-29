@@ -22,7 +22,7 @@
     <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leticiacb1&hide_border=true&theme=dark" />
   </p>
     <p align="center">
-      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=leticiacb1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacb1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=leticiacb1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacb1&hide=jupyter%20notebook,html,css&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
 
 <b>:computer: &nbsp;Technologies</b>
