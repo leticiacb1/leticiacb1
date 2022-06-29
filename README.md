@@ -13,7 +13,7 @@
 
 - ⏳️ Computer Engineer in progress ...
 - 🌱 I'm currently learning Linux, Vim and other cool stuff!
-- ⚡ Fun fact: I have a cat 🐈️ and I like to cook 👩‍🍳️
+- ⚡ Curiosity: I have a cat 🐈️ and I like to cook 👩‍🍳️
 - 💌️ I love challenges and learning new technologies
 
 <b>:gear: &nbsp;GitHub Statistics</b>
@@ -68,6 +68,8 @@
 <br/>
 
 <div align="center">
+  👀️ 
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=leticiacb1&style=for-the-badge">
 </div>
             
