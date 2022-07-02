@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="Assets/background.png" justify-content="center" width="850px">
+  <img src="Assets/backgroundProfile.png" justify-content="center" width="850px">
 </p>
 
 ---
