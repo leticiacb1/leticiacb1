@@ -14,7 +14,7 @@
 - ⏳️ Computer Engineer in progress ...
 - 🌱 I'm currently learning Linux, Vim and other cool stuff!
 - ⚡ Curiosity: I have a cat 🐈️ and I like to cook 👩‍🍳️
-- 💌️ I love challenges and learning new technologies
+- 💌️ I love challenges and learn new technologies
 
 <b>:gear: &nbsp;GitHub Statistics</b>
   <br/>
